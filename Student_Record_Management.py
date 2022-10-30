@@ -1,7 +1,3 @@
-#Ashton Whitt, CSC 220, 4/22/2022, Use dictionaries to reformat old labs
-
-#Reworking track coach lab:
-
 def create_file(file):
     '''
     This function is only used in the case that the file has nothing stored on
